@@ -31,5 +31,5 @@ Application To-Do List avec MERN stack : Ajout, affichage, update (complétée),
 - Gestion erreurs et validation basique.
 
 ## Auteur
-- Votre Nom.
-- Basé sur TP8.pdf.
+- NASR BOUZAIDA
+
